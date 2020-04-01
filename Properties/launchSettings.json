@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MessageSample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "IOTHUB_DEVICE_CONN_STRING": "HostName=<iot_name>.azure-devices.net;DeviceId=<device_id>;SharedAccessKey=<access_key"
+      }
+    }
+  }
+}
